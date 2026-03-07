@@ -1,0 +1,5 @@
+{
+  "name": "ProBuild Planner",
+  "description": "Professional construction specification and material budgeting tool powered by AI.",
+  "requestFramePermissions": ["geolocation"]
+}
