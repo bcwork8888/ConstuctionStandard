@@ -1,5 +1,5 @@
 {
-  "name": "ProBuild Planner",
-  "description": "Professional construction specification and material budgeting tool powered by AI.",
+  "name": "ProBuild Architect",
+  "description": "Professional construction engine with hierarchical building code search and material calculation.",
   "requestFramePermissions": ["geolocation"]
 }
